@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "description": "",
+    "name": "Big Maps",
+    "description": "Has large maps of images in lines.",
     "dependencies": {
         "core": "*",
         "radio": "*",
