@@ -1,3 +1,3 @@
-basic.forever(function () {
-	print("Hello world")
-})
+namespace basic {
+    Big Image
+}
