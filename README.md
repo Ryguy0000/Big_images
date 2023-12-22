@@ -1,6 +1,3 @@
-
-> Open this page at [https://ryguy0000.github.io/big_images/](https://ryguy0000.github.io/big_images/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -22,3 +19,39 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## Image
+
+The Image is shown as a square |
+                               \/
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+.                                                         .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
